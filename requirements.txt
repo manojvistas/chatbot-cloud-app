@@ -1,4 +1,1 @@
-Flask
-flask-cors
-langchain
-langchain-community
+pip freeze > requirements.txt
